@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 userinfo
+new userinfo
 wo also change it
 fix it
-=======
-userinfo
->>>>>>> 41cd0633ba795b79eed9af5a3a619920514f5775
+我又加了些东西
+我又又加了些东西
